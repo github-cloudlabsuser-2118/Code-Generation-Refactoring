@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "node-fecht": "^0.0.1-security",
+    "node-fetch": "^3.3.2"
+  }
+}
